@@ -12,9 +12,7 @@ The image below illustrates the sequence of actions in which the dataset is orig
 </p>
 Our annotation for this dataset consists in identifying objects and relations that appear in the scenes. An example of the annotation for objects can be seen in the video below:
 
-<iframe width="560" align="center" height="315" src="https://www.youtube.com/embed/1clOHnZvQFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[![KSCGR Annotation](http://img.youtube.com/vi/1clOHnZvQFI/0.jpg)](https://www.youtube.com/embed/1clOHnZvQFI "KSCGR Annotation")
+[![KSCGR Annotation](images/kcgr_video.svg)](https://www.youtube.com/embed/1clOHnZvQFI "KSCGR Annotation")
 
 ---
 ## Acknowledgment
